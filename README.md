@@ -1,32 +1,29 @@
-# platform
+# OmniPostr
 
----
+**Post once. Be everywhere.**
 
-## 🛠️ Tech Stack
+OmniPostr helps creators, founders, and content teams turn existing source content into channel-specific drafts, review them, and move approved content toward publication.
 
-| Layer        | Stack |
-|-------------|-------|
-| **Frontend** | React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui |
-| **Backend**  | Node.js, Express, PostgreSQL, Drizzle ORM |
-| **State**    | TanStack React Query v5 |
-| **Auth**     | Passport.js (Sessions) |
-| **AI**       | Anthropic Claude Sonnet 4 + OpenAI GPT-4o |
-| **Deployment** | Replit (cloud-native setup) |
+[Visit OmniPostr](https://www.omnipostr.com/)
 
----
----
+## How it works
 
-## 🚀 Getting Started
+1. **Start with a source.** Use an existing piece of content as the foundation.
+2. **Create channel-specific drafts.** Adapt tone, length, and formatting for each destination.
+3. **Review and refine.** Check the drafts against the source, adjust the voice, and decide what is ready to use.
+4. **Schedule and publish where supported.** Move approved content through a supported connected workflow.
 
-### Prerequisites
+## Founder and product work
 
-- Node.js 18+
-- PostgreSQL
-- Replit or local development setup
+I'm Rado, founder and product creator of OmniPostr. My work covers:
 
-### Install
+- **Product definition:** defining requirements and the workflow from source content through review to publication.
+- **Product development:** developing the user interface and backend integrations.
+- **AI output quality:** checking generated outputs against their source content.
+- **Delivery and operations:** testing, documenting, and operating the product.
 
-```bash
-git clone https://github.com/your-username/verbum-sanctus-platform.git
-cd verbum-sanctus-platform
-pnpm install  # or npm / yarn
+[View my GitHub profile](https://github.com/OmniPostr)
+
+## About this repository
+
+This is a public presentation of OmniPostr, a proprietary product. The product implementation is not included.
